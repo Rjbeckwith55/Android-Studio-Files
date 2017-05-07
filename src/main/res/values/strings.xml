@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UIUC Transfer</string>
+    <string name="welcomeMessage">Welcome!\nOpen the side drawer to explore the sample queries.</string>
+    <string name="selectAll">All Gen Ed Classes that Transfer</string>
+    <string name="selectAllSS">All Social Sciences</string>
+    <string name="selectAllHum">All Liberal Arts/Humanities </string>
+    <string name="selectAllUS">All U.S. Minorities</string>
+    <string name="selectAllWCC">All Western Cultures</string>
+    <string name="selectAllNW">All Non-Western Cultures</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
